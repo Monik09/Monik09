@@ -1,16 +1,22 @@
-### Hi there 👋
 
-<!--
-**Monik09/Monik09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github.com/Monik09/Monik09/blob/master/required/My%20Post.jpg">
 
-Here are some ideas to get you started:
+I am 2nd Year CS undergrad at Indian Institute of Information Technology Vadodara. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **Flutter** 
+- 🌱 I’m currently learning **Javascript**
+- 👯 I’m looking to collaborate on **Flutter projects**
+- 🤔 I’m looking for help with **UI designs**
+- :heart_eyes: **I love reading books and learning about new technologies**
+- 📫 How to reach me: 
+<p align="center">
+  <a href="https://www.linkedin.com/in/monikinderjit-singh/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/MonikIJS">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/monikinderjit_singh_/">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>&nbsp;&nbsp;
+</p>
