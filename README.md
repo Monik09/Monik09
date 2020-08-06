@@ -21,4 +21,5 @@ I am 2nd Year CS undergrad at Indian Institute of Information Technology Vadodar
   </a>&nbsp;&nbsp;
 </p>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Monik09&hide=["stars","issues"]&show_icons=true )](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Monik09&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+
