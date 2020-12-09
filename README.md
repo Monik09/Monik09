@@ -25,3 +25,5 @@ I am 2nd Year CS undergrad at Indian Institute of Information Technology Vadodar
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Monik09&hide=javascript,html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=monik09.monik09)<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="25">
