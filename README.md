@@ -29,5 +29,5 @@ I am 2nd Year CS undergrad at Indian Institute of Information Technology Vadodar
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Monik09&theme=radical&count_private=true" />
 </a>
 <a href="https://github.com/monik09"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monik09&theme=radical&card_width=400&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monik09&theme=radical&card_width=250&langs_count=3" />
 </a>
