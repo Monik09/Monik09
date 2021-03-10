@@ -22,8 +22,9 @@ I am 2nd Year CS undergrad at Indian Institute of Information Technology Vadodar
 </p>
 
 
+<!-------
 ![Metrics](https://metrics.lecoq.io/Monik09?template=classic&base.community=0&base.repositories=0&activity=1&stars=1&tweets=1&languages=1&tweets.limit=2&tweets.user=MonikIJS&stars.limit=4&activity.limit=5&activity.days=14&activity.filter=all&config.timezone=Asia%2FCalcutta&config.animated=true)
-
+--------->
 
 <a href="https://github.com/monik09">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Monik09&theme=radical&count_private=true" />
