@@ -1,7 +1,7 @@
 
 <img src="https://github.com/Monik09/Monik09/blob/master/required/My%20Post.jpg">
 
-I am 2nd Year CS undergrad at Indian Institute of Information Technology Vadodara. 
+I am 3rd Year CS undergrad at Indian Institute of Information Technology Vadodara. 
 
 - 🔭 I’m currently working on **Flutter** 
 - 🌱 I’m currently learning **Javascript**
