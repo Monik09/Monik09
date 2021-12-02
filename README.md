@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Monik09/Monik09/blob/master/required/My%20Post.jpg">
+<!-- <img src="https://github.com/Monik09/Monik09/blob/master/required/My%20Post.jpg"> -->
 
 I am 3rd Year CS undergrad at Indian Institute of Information Technology Vadodara. 
 
@@ -7,17 +7,21 @@ I am 3rd Year CS undergrad at Indian Institute of Information Technology Vadodar
 - 🌱 I’m currently learning **Javascript**
 - 👯 I’m looking to collaborate on **Flutter projects**
 - 🤔 I’m looking for help with **UI designs**
-- :heart_eyes: **I love reading books and learning about new technologies**
+- :heart_eyes: **Love reading books**
 - 📫 How to reach me: 
-<p align="center">
+<!-- <p align="center"> -->
+<p>
   <a href="https://www.linkedin.com/in/monikinderjit-singh/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://twitter.com/MonikIJS">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/monikinderjit_singh_/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:monikinderjitsingh5@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
 
